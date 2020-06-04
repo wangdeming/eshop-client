@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>dingwei</title>
+    <desc>Created with Sketch.</desc>
+    <g id="酒店" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="待付款订单" transform="translate(-289.000000, -173.000000)">
+            <g id="Group-3" transform="translate(0.000000, 164.000000)">
+                <g id="Group" transform="translate(289.000000, 9.000000)">
+                    <g id="dingwei">
+                        <path d="M19.2638826,7.02960106 C19.7003527,6.88411103 20.115889,7.29964729 19.9703989,7.73611737 L15.6766115,20.6180031 C15.5151594,21.1018359 14.8431839,21.1342833 14.6362008,20.6682443 L12.1683655,15.1152877 C12.1121059,14.9888998 12.0111002,14.8878941 11.8847123,14.8316345 L6.33175574,12.3637992 C5.86571665,12.1568161 5.89816407,11.4848406 6.3819969,11.3233885 L19.2638826,7.02960106 Z" id="details_gps" fill="#666666"></path>
+                        <circle id="Oval-Copy-3" stroke="#CCCCCC" stroke-width="0.5" fill-rule="nonzero" cx="14" cy="14" r="13.75"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

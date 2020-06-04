@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="140px" viewBox="0 0 375 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="109.502083%" y1="0%" x2="-6.81666667%" y2="86.6992188%" id="linearGradient-1">
+            <stop stop-color="#CCA655" offset="0%"></stop>
+            <stop stop-color="#C9B16F" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0 375 0 375 140 0 140"></polygon>
+    </defs>
+    <g id="景区电商" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(0.000000, -63.000000)">
+            <g id="mine_bg" transform="translate(0.000000, 63.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M2.84217094e-13,141 C101.333333,123.333333 176,101.333333 224,75 C272,48.6666667 318.470052,19.7573593 363.410156,-11.7279221 L375.410156,-17 L375.410156,137.272078 L2.84217094e-13,141 Z" id="Path-2" fill-opacity="0.04" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+                <path d="M-123.023438,139.171875 C-21.6901042,121.505208 52.9765625,99.5052083 100.976563,73.171875 C148.976563,46.8385417 195.446615,17.9292343 240.386719,-13.5560471 L252.386719,-18.828125 L252.386719,135.443953 L-123.023438,139.171875 Z" id="Path-2-Copy" fill-opacity="0.0506680254" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)" transform="translate(64.681641, 60.171875) scale(-1, -1) rotate(1.000000) translate(-64.681641, -60.171875) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
